@@ -10,7 +10,7 @@ services:
   hisense_ac:
     depends_on:
       - copy_config
-    image: emoses/aircon:latest
+    image: jonad0521/aircon:latest
     container_name: hisense_ac
     healthcheck:
       disable: true
