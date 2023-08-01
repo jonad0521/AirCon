@@ -4,7 +4,7 @@
   "slug": "hisense_ac",
   "description": "Interface for controlling Air Conditioners, e.g. with HiSense modules.",
   "url": "https://github.com/jonad0521/AirCon",
-  "image": "jonad0521/aircon",
+  "image": "emoses/aircon",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
   "boot": "auto",
